@@ -1,4 +1,7 @@
 # ¡Hola! 👋 Soy Eder Montes
+ 
+Soy QA Tester en Ingenes.
+
 
 ## 🔗 Enlaces
 
